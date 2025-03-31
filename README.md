@@ -1,8 +1,22 @@
 # Kurppa Track and Spot Analysis
 
-This repository contains Jupyter notebooks for analyzing and visualizing tracking and spot detection data from the Kurppa dataset.
+This repository contains Jupyter notebooks for analyzing and visualizing tracking, spot detection, and nuclei segmentation data from the Kurppa dataset.
 
-## Notebooks
+---
+## Deep learning pipeline
+
+### Nuclei_detection_pipeline.ipynb  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/DL_pipeline/Nuclei_detection_pipeline.ipynb)  
+
+Implements a deep learning-based pipeline for nuclei detection:
+- Loads raw microscopy images
+- Applies pretrained segmentation model
+- Outputs masks and postprocessed features
+- Can be integrated with tracking and spot analysis workflows
+
+---
+
+## Analysis Notebooks
 
 ### 1_Kurppa_tracks_analysis.ipynb 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/1_Kurppa_tracks_analysis.ipynb)  
