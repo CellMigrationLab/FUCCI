@@ -6,7 +6,6 @@ This repository contains Jupyter notebooks for analyzing and visualizing trackin
 
 ### 1_Kurppa_tracks_analysis.ipynb 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/1_Kurppa_tracks_analysis.ipynb)  
-[View notebook](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/1_Kurppa_tracks_analysis.ipynb)
 
 Performs analysis of track data, including:
 - Filtering and preprocessing of trajectories
@@ -17,7 +16,6 @@ Performs analysis of track data, including:
 
 ### 2_Kurppa_spots_analysis.ipynb  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/2_Kurppa_spots_analysis.ipynb)  
-[View notebook](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/2_Kurppa_spots_analysis.ipynb)
 
 Analyzes spot detection data:
 - Aggregates spot-level features
@@ -28,7 +26,6 @@ Analyzes spot detection data:
 
 ### 3_Kurppa_spots_plotting.ipynb  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/3_Kurppa_spots_plotting.ipynb)  
-[View notebook](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/3_Kurppa_spots_plotting.ipynb)
 
 Generates visualizations for spot analysis results:
 - Box plots, histograms, and scatter plots
