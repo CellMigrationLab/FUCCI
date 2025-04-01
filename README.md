@@ -19,7 +19,7 @@ Implements a deep learning-based pipeline for nuclei detection:
 ## Analysis Notebooks
 
 ### 1_Tracks_analysis+plotting.ipynb 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/1_Tracks_analysis+plotting.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/1_Tracks_analysis_plotting.ipynb)  
 
 Performs analysis of track data, including:
 - Filtering and preprocessing of trajectories
