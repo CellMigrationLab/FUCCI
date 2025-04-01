@@ -18,8 +18,8 @@ Implements a deep learning-based pipeline for nuclei detection:
 
 ## Analysis Notebooks
 
-### 1_Kurppa_tracks_analysis.ipynb 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/1_Kurppa_tracks_analysis.ipynb)  
+### 1_Tracks_analysis+plotting.ipynb 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/1_Tracks_analysis+plotting.ipynb)  
 
 Performs analysis of track data, including:
 - Filtering and preprocessing of trajectories
@@ -28,8 +28,8 @@ Performs analysis of track data, including:
 
 ---
 
-### 2_Kurppa_spots_analysis.ipynb  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/2_Kurppa_spots_analysis.ipynb)  
+### 2_Spots_analysis.ipynb  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/2_Spots_analysis.ipynb)  
 
 Analyzes spot detection data:
 - Aggregates spot-level features
@@ -38,8 +38,8 @@ Analyzes spot detection data:
 
 ---
 
-### 3_Kurppa_spots_plotting.ipynb  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/3_Kurppa_spots_plotting.ipynb)  
+### 3_Spots_plotting.ipynb  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/FUCCI/blob/main/FUCCI_analysis/3_Spots_plotting.ipynb)  
 
 Generates visualizations for spot analysis results:
 - Box plots, histograms, and scatter plots
