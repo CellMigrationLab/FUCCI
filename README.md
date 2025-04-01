@@ -1,4 +1,4 @@
-# Kurppa Track and Spot Analysis
+# FUCCI Track and Spot Analysis 
 
 This repository contains Jupyter notebooks for analyzing and visualizing tracking, spot detection, and nuclei segmentation data from the Kurppa dataset.
 
